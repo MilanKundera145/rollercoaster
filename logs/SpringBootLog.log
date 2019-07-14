@@ -1,0 +1,16 @@
+2019/07/13-23:20 [restartedMain] INFO  com.rollercoaster.RollercoasterApplication- Starting RollercoasterApplication on Mask-PC with PID 8980 (D:\IDEA\IDEA_workspace\rollercoaster\target\classes started by Mask in D:\IDEA\IDEA_workspace\rollercoaster)
+2019/07/13-23:20 [restartedMain] INFO  com.rollercoaster.RollercoasterApplication- No active profile set, falling back to default profiles: default
+2019/07/13-23:20 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019/07/13-23:20 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019/07/13-23:20 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat initialized with port(s): 8080 (http)
+2019/07/13-23:20 [restartedMain] INFO  org.apache.catalina.core.StandardService- Starting service [Tomcat]
+2019/07/13-23:20 [restartedMain] INFO  org.apache.catalina.core.StandardEngine- Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019/07/13-23:21 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/rollercoaster]- Initializing Spring embedded WebApplicationContext
+2019/07/13-23:21 [restartedMain] INFO  org.springframework.web.context.ContextLoader- Root WebApplicationContext: initialization completed in 2322 ms
+2019/07/13-23:21 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor- Initializing ExecutorService 'applicationTaskExecutor'
+2019/07/13-23:21 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer- LiveReload server is running on port 35729
+2019/07/13-23:21 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer- Tomcat started on port(s): 8080 (http) with context path '/rollercoaster'
+2019/07/13-23:21 [restartedMain] INFO  com.rollercoaster.RollercoasterApplication- Started RollercoasterApplication in 3.814 seconds (JVM running for 5.16)
+2019/07/13-23:21 [http-nio-8080-exec-4] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/rollercoaster]- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019/07/13-23:21 [http-nio-8080-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet- Initializing Servlet 'dispatcherServlet'
+2019/07/13-23:21 [http-nio-8080-exec-4] INFO  org.springframework.web.servlet.DispatcherServlet- Completed initialization in 8 ms
